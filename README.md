@@ -11,7 +11,7 @@
   <tr>
     <td colspan="2" align="left">
       <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-        <img src="part3.png" align="left" height=20px/>
+        <img src="part3.png" align="left"/>
       </a>
     </td>
   </tr>
