@@ -1,20 +1,17 @@
-<table align="center" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <img src="part-1.png" />
+    <td style="line-height: 0; border: none;">
+      <img src="part-1.png" border="0" style="display: block; width: 100%;" />
     </td>
-    <!-- <td>
-      <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/middle.png" />
-    </td> -->
-    <td>
-      <img src="part2.png" />
+    <td style="line-height: 0; border: none;">
+      <img src="part2.png" border="0" style="display: block; width: 100%;" />
     </td>
   </tr>
 
   <tr>
-    <td colspan="3" align="center">
+    <td colspan="2" align="left" style="line-height: 0; border: none; padding-top: 10px;">
       <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-        <img src="lower-part1.png" />
+        <img src="lower-part1.png" border="0" style="display: block;" />
       </a>
     </td>
   </tr>
