@@ -1,10 +1,10 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="line-height: 0; border: none;">
-      <img src="part-1.png" border="0" style="display: block; width: 100%;" />
+    <td>
+      <img src="part-1.png"  />
     </td>
-    <td style="line-height: 0; border: none;">
-      <img src="part2.png" border="0" style="display: block; width: 100%;" />
+    <td>
+      <img src="part2.png" />
     </td>
   </tr>
 
